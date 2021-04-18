@@ -24,13 +24,6 @@ AWS Pricing : https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-wor
 
 https://aws.amazon.com/certification/
 
-https://aws.amazon.com/certification/certified-developer-associate/
-
-https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf
-
-https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf
-
-
 
 
 
@@ -53,37 +46,5 @@ https://www.infrastructure.aws/
 
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
 
-
-#####################
-FeedBack :
-#####################
-
- https://www.surveymonkey.com/r/YKY5HMX?session_id=1703744097&type=GLVC&trainer=ayush&course=aws%20developer%20associate&mega_category=technology&id=688&mega_id=4
-
-
-
-Git : https://github.com/CloudIgnite/AWS-Developer-Associate-5thDec2020
-
-
-
-###########
-    IAM
-###########
-
-IAM : https://aws.amazon.com/iam/
-      https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
-
-FAQ : https://aws.amazon.com/iam/faqs/?nc=sn&loc=5
-
-Security best practices : https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-
-IAM root user : https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html
-
-
-IAM LAB : https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-iam/
-          https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html
-
-Task 1 : Create Ec2 and fetch data from S3
-         https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-access-s3-bucket/
 
                   
